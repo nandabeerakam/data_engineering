@@ -1,4 +1,4 @@
-# Deployment and Triggering Strategy for PySpark Pipeline
+# Deployment of PySpark Pipeline
 
 ## 1. Deployment Using GitHub Actions
 
