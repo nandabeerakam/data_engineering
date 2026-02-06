@@ -1,6 +1,4 @@
-# Deployment of PySpark Pipeline
-
-## 1. Deployment Using GitHub Actions
+## Deployment Using GitHub Actions
 
 The PySpark pipeline is deployed using **GitHub Actions** to ensure automated, repeatable, and consistent deployments.
 
